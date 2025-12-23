@@ -1,5 +1,9 @@
-# Néstor Martínez
+<div align="center">
+
+# Hola soy Néstor Martínez
 ### Full Stack Junior Developer | Estudiante de Análisis de Sistemas
+
+</div>
 
 Soy desarrollador Full Stack basado en Limpio, Paraguay. Actualmente trabajo en Factupar, donde me encargo del desarrollo y mantenimiento de sistemas ERP enfocados en módulos financieros y facturación electrónica. Mi enfoque principal es la transición hacia el dominio completo del ecosistema React.
 
