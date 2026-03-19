@@ -5,7 +5,7 @@
 
 </div>
 
-Soy desarrollador Full Stack basado en Limpio, Paraguay. Actualmente trabajo en Factupar, donde me encargo del desarrollo y mantenimiento de sistemas ERP enfocados en módulos financieros y facturación electrónica. Mi enfoque principal es la transición hacia el dominio completo del ecosistema React.
+Soy desarrollador Full Stack basado en Limpio, Paraguay. Actualmente trabajo en Onnix, donde me encargo del desarrollo de módulos financieros y facturación electrónica. Mi enfoque principal es la transición hacia el dominio completo del ecosistema React.
 
 ---
 
@@ -43,8 +43,14 @@ Soy desarrollador Full Stack basado en Limpio, Paraguay. Actualmente trabajo en 
 ---
 
 ### Experiencia Profesional
+**Programador FullStack en Onnix** (Febrero 2026 - Actualidad)
+*Gestión de datos multi-entorno.
+*Modernización de Intefaces y Experiencia de Usuarios.
+*Colaboración Técnica y DevOps.
 
-**Programador Full Stack en Factupar** (Julio 2025 - Presente)
+---
+
+**Programador Full Stack en Factupar** (Julio 2025 - Enero 2026)
 * Desarrollo de lógica de negocio para módulos de Créditos, Tesorería y Facturación.
 * Modernización de código Legacy PHP hacia arquitectura MVC.
 * Implementación de sistemas de Facturación Electrónica (SIFEN) y manejo de respuestas JSON.
