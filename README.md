@@ -44,9 +44,9 @@ Soy desarrollador Full Stack basado en Limpio, Paraguay. Actualmente trabajo en 
 
 ### Experiencia Profesional
 **Programador FullStack en Onnix** (Febrero 2026 - Actualidad)
-*Gestión de datos multi-entorno.
-*Modernización de Intefaces y Experiencia de Usuarios.
-*Colaboración Técnica y DevOps.
+* Gestión de datos multi-entorno.
+* Modernización de Intefaces y Experiencia de Usuarios.
+* Colaboración Técnica y DevOps.
 
 ---
 
