@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hola soy Néstor Martínez
-### Full Stack Junior Developer | Estudiante de Análisis de Sistemas
+### Full Stack Developer | Estudiante de Análisis de Sistemas
 
 </div>
 
