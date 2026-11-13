@@ -99,8 +99,3 @@ Los repositorios de estos productos son privados; con gusto los muestro en una e
 * Licenciatura en Análisis de Sistemas, Universidad Iberoamericana (en curso).
 * Duolingo English Test: 115.
 * Data Analytics y English for IT, Cisco NetAcad.
-
-### Contacto
-* Portfolio: [tomcodev.tech](https://tomcodev.tech)
-* LinkedIn: [Néstor Martínez](https://www.linkedin.com/in/n%C3%A9stor-mart%C3%ADnez-tomco1512)
-* Email: reyesnestor673@gmail.com
